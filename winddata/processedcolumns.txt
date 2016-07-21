@@ -1,0 +1,14 @@
+ConGriVol2	ConGriVol1	ConGriVol3	ConSpe	ConUdc	Power	GenSpeHub	ICon.Sta	ConTotCur3	ConTotCur1	ConTotCur2	IGenHeaCot	HubSta	PlcSta	standard_state	CheHubBa2	CheHubBa1	YawAut	NacPosIni	IBar	ConRotCur	HubBusVo1	HubBusVo3	HubBusVo2	SafChaSta	ConGriCur1	HubFai002	
+ConGriVol2	ConGriVol1	IHubMotTor	ConGriVol3	ConSpe	ConUdc	Power	GenSpeHub	IHub_1_.HubPos	IHub_3_.HubPos	WatPre	IHub_2_.HubPos	HubBatVo3	ICon.Sta	ConTotCur3	ConTotCur1	ConTotCur2	IGenHeaCot	XVibDri	HubSta	PlcSta	standard_state	CheHubBa2	CheHubBa1	YawAut	NacPosIni	IBar	ConRotCur	VibSenDri	IGeaFanCot	HubBusVo1	HubBusVo3	HubBusVo2	SafChaSta	ConGriCur1	HubFai002	
+ConUdc	Power	GenSpeHub	IHub_1_.HubPos	IHub_3_.HubPos	WatPre	ICon.Sta	IHub_2_.HubMotTem	ConTotCur3	ConTotCur1	ConTotCur2	IGenHeaCot	HubSta	PlcSta	standard_state	CheHubBa2	IHub_2_.HubTor	Spe.Con	YawAut	IHub_1_.HubPos	ConPowDem	NacPosIni	IBar	ICon.LinCurL1	ConRotCur	IHub_3_.HubPos	IHub_2_.HubPos	GscCur5se	IGeaFanCot	HubBusVo1	HubBusVo3	HubBusVo2	SafChaSta	IHub_1_.HubTor	ConGriCur1	HubFai002	
+IHubMotTor	ConSpe	HubHeaTe2	GenSpeHub	IHub_1_.HubPos	IHub_3_.HubPos	ChoTem	WatPre	IHub_2_.HubPos	ChoLinTem	NacPos.Dem	HubSta	standard_state	Spe.Con	IHub_1_.HubPos	IHub_3_.HubPos	NacPos.ErrDem	IHub_2_.HubPos	HubFai002	
+ConGriVol2	HubBatVo3	ConGriVol1	ConGriVol3	ICon.Sta	NacPos.Deg	ConTotCur3	ConTotCur1	ConTotCur2	IGenHeaCot	ConUdc	XVibDri	HubMotTem2	HubSta	PlcSta	Power	standard_state	CheHubBa2	CheHubBa1	HubHeaTe2	YawAut	GenSpeHub	IHub_1_.HubPos	NacPosIni	IBar	ConRotCur	IHub_3_.HubPos	IHub_2_.HubPos	VibSenDri	IGeaFanCot	HubBusVo1	HubBusVo3	HubBusVo2	SafChaSta	ConGriCur1	HubFai002	
+HubHeaTe3	IWinFil	HubSta	PlcSta	standard_state	GenTem1	CheHubBa2	Spe.Con	ICon.LinVolL1	YawAut	IHub_1_.HubPos	ConPowDem	IBar	ConPow	ICon.LinCurL1	ConRotCur	IHub_3_.HubPos	IHub_2_.HubPos	ICon.Udc	IGeaFanCot	SafChaSta	IHub_1_.HubTor	HubFai002	
+GenSpeHub	HubBatTem3	WatPre	ICon.Sta	ConTotCur3	ConTotCur1	ConTotCur2	HubSta	PlcSta	standard_state	CheHubBa2	NacPosIni	IBar	ConPow	ConRotCur	IGeaFanCot	HubBusVo1	HubBusVo3	SafChaSta	ConGriCur1	HubFai002	
+ConGriVol3	HubSta	PlcSta	standard_state	YawPow	SafChaSta	HubFai002	
+conflictcolumns:
+YawAut	IHub_1_.HubPos	IBar	HubHeaTe3	HubHeaTe2	ICon.Sta	IGeaFanCot	ChoTem	IHub_2_.HubPos	ChoLinTem	ConTotCur1	ConTotCur3	ConTotCur2	CheHubBa1	IHub_3_.HubPos	HubMotTem2	NacPosIni	GscCur5se	GenTem1	ConPowDem	YawPow	IHub_2_.HubMotTem	ICon.LinCurL1	XVibDri	IGenHeaCot	HubBatVo3	ConRotCur	
+tmp remain of union:
+GenSpeHub	HubFai002	ConSpe	ConUdc	IWinFil	IHubMotTor	ConGriCur1	IHub_1_.HubTor	Power	VibSenDri	ICon.Udc	CheHubBa2	WatPre	ConGriVol3	ConGriVol2	ConGriVol1	NacPos.Deg	NacPos.ErrDem	ConPow	ICon.LinVolL1	IHub_2_.HubTor	NacPos.Dem	Spe.Con	HubBatTem3	PlcSta	SafChaSta	HubSta	HubBusVo1	HubBusVo3	HubBusVo2	standard_state	
+tmp remain of intersection:
+standard_state	HubFai002	HubSta	
