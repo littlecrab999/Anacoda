@@ -1,0 +1,24 @@
+变频器: ['ICon.Sta', 'Spe.Con', 'ConPowDem', 'ConErr', 'ICon.Fre', 'But.Con']
+齿轮箱: ['IGeaOilPreOk_', 'IGeaPumLowCot', 'IGeaPumHigCot', 'IGeaFanCot', 'IGeaHeaCot', 'IGeaFilPre', 'GeaBeaTem', 'GeaOilTem', 'GeaOilPre', 'GeaBeaTem2', 'GeaBeaTem1']
+电池: ['IBatDisCot', 'UpsBatVol', 'Bat.TesVol_3_', 'BatCou']
+网侧: ['ChoLinTem', 'LscCur5se', 'ICon.LinCurL1', 'ICon.LinCurL2', 'ICon.LinCurL3', 'ICon.LscIgbTem']
+刹车: ['IBar', 'IBraPumCot', 'TotCou.CouHyd', 'TotCouTimHyd', 'TotCou.CouBra', 'TotCouTimBra']
+水冷: ['WatWarTem', 'WatColTem', 'IWatPumCot']
+发电机: ['ConSpe', 'IGenHeaCot', 'GenBeaDriTem', 'GenBeaNonTem', 'GenTem1', 'GenTem2', 'GenTem3', 'ChoGenTem', 'DayTimGen']
+变桨: ['HubMotTem1', 'HubMotTem2', 'HubMotTem3', 'IDc_SupCot']
+机侧变频器: ['ICon.GscIgbTem', 'GscCur5se']
+基本信息: ['WinSpe', 'IWinFil', 'Power', 'WatPre', 'EnvTem', 'ConGriVol1', 'ConGriVol2', 'ConGriVol3', 'ConPow', 'DriTraSwi', 'BlaLimVis', 'AutQuiLev', 'PlcSta', 'SafChaSta', 'WarFir001', 'WarFir002', 'WarFir003', 'WarFir004', 'WarFir005', 'WarFir006', 'WarFir007', 'WarFir008', 'ErrFir001', 'ErrFir002', 'ErrFir003', 'ErrFir004', 'ErrFir005', 'ErrFir006', 'ErrFir007', 'ErrFir008', 'WinDir', 'WinSpeTur', 'Cab300Tem', 'Cab320Tem', 'StaCur5se', 'FilPlaTem', 'Spe.Rot', 'ICon.Udc', 'ICon.LinVolL1', 'ICon.LinVolL2', 'ICon.LinVolL3', 'PowAutSca.PowSca', 'TotCur5se', 'PowFil', 'ReaPowFil', 'Pow400', 'FaiCur', 'AccSenDri', 'AccSenNon', 'ReaPower', 'RotPos', 'PowPotSca', 'DayEneCon', 'DayEnePro', 'DayWinAve', 'Spe.RotDif', 'But.Hea', 'But.Oil', 'But.Wat', 'TotCouEnePro', 'TotCouEneCon', 'TotCouTimGen', 'TotCou.CouGen', 'TotCouSysTim', 'TotCou.CouOilPumLow', 'TotCouTimOilPumLow', 'TotCou.CouOilPumHig', 'TotCouTimOilPumHig', 'TotCou.CouOilFan', 'TotCouTimOilFan', 'SysTim']
+叶片: ['HubSpe', 'IHub_1_.HubSta', 'IHub_2_.HubSta', 'IHub_3_.HubSta', 'OutHubPos.Act', 'IHub_1_.HubPos', 'IHub_2_.HubPos', 'IHub_3_.HubPos', 'IHub_1_.HubTor', 'IHub_2_.HubTor', 'IHub_3_.HubTor', 'HubBeaFri1', 'HubBeaFri2', 'HubBeaFri3', 'PowScaVis', 'IHub_1_.HubErr', 'IHub_2_.HubErr', 'IHub_3_.HubErr', 'BlaPotSca']
+机舱: ['NacPos.ErrDem', 'NacPos.Dem', 'NacTem', 'NacPos.Deg', 'TotCou.CouYawLef', 'TotCou.CouYawRig', 'TotCouTimYawLef', 'TotCouTimYawRig']
+轮毂: ['TotCou.CouHub', 'TotCouTimHub']
+塔基: ['TowCabTem']
+偏航: ['YawPow', 'INacPosL_r', 'NacPosIni', 'IYawPow', 'IYawConTem', 'UpsBatTem', 'YawErr']
+其他: ['WdrFil', 'GenSpeHub', 'IHubMotTor', 'WatConOutTem', 'EnvHyg', 'Cab100Tem', 'Cab101Tem', 'ConTem', 'ChoTem', 'HubBatTem1', 'HubBatTem2', 'HubBatTem3', 'HubIgbTe1', 'HubIgbTe2', 'HubIgbTe3', 'HubHeaTe1', 'HubHeaTe2', 'HubHeaTe3', 'GenDriTem', 'GenNdrTem', 'GenOv1Tem', 'GenOv2Tem', 'GenOv3Tem', 'GeaBeaTem', 'GeaOilTem', 'TraHV1Tem', 'TraHV2Tem', 'TraHV3Tem', 'ConUdc', 'ConRotCur', 'ConGriCur1', 'ConTotCur1', 'ConTotCur2', 'ConTotCur3', 'HubBatVo1', 'HubBatVo2', 'HubBatVo3', 'CheHubBa1', 'CheHubBa2', 'CheHubBa3', 'HubBusVo1', 'HubBusVo2', 'HubBusVo3', 'Bat001', 'Bat002', 'XVibDri', 'XVibNon', 'VibSenDri', 'VibSenNon', 'PowScaVis', 'HubFai001', 'HubFai002', 'HubFai003', 'HubSta', 'Bat003', 'Bat004', 'ControlBack', 'YawAut', 'IVisSerBut', 'IVisStaBut', 'IVisResBut', 'IVisStoBut', 'IVisPin', 'IVisPde', 'IVisBin', 'IVisBde', 'IVisAin', 'IVisAde', 'IVisBlaOut', 'IVisBlaIn_', 'IVisWinSpeSet', 'IVisBlaSto', 'IVisYawSto', 'IVisStaCurRes', 'IVisAutErrResIni', 'IVisAutErrResEna', 'IVisGenHeaTog', 'IVisHubTog', 'IVisYawTog', 'IVisConTog', 'IVisBraTog', 'IVisPumLowTog', 'IVisPumHigTog', 'IVisFanTog', 'IVisGeaHeaTog', 'IVisWatPumTog', 'IVisBraPumTog', 'IVisYawLef', 'IVisYawRig', 'IVisWinSpe', 'XVibDri', 'XVibNon']
+变频器 刹车 发电机 基本信息 偏航 其他 
+变频器 齿轮箱 刹车 发电机 基本信息 叶片 偏航 其他 
+变频器 齿轮箱 网侧 刹车 发电机 机侧变频器 基本信息 叶片 偏航 其他 
+变频器 网侧 发电机 基本信息 叶片 机舱 其他 
+变频器 齿轮箱 刹车 发电机 变桨 基本信息 叶片 机舱 偏航 其他 
+变频器 齿轮箱 网侧 刹车 发电机 基本信息 叶片 其他 
+变频器 刹车 基本信息 齿轮箱 偏航 其他 
+基本信息 偏航 其他 
